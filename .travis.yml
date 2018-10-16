@@ -11,6 +11,7 @@ os:
   - windows
 
 cache:
+  branch: bash
   directories:
     - "node_modules"
 
